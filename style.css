@@ -97,8 +97,13 @@ button, input, select { font: inherit; }
 .group-header h2 { font-size: clamp(1.8rem, 3.5vw, 2.4rem); }
 .group-header .label { color: var(--red); }
 .venue-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
-.venue-card { display: flex; flex-direction: column; gap: 12px; padding: 24px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); transition: transform 150ms, box-shadow 150ms, border-color 150ms; }
+.venue-card { display: flex; flex-direction: column; gap: 12px; padding: 0 24px 24px; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); transition: transform 150ms, box-shadow 150ms, border-color 150ms; }
 .venue-card:hover { border-color: var(--red); box-shadow: var(--shadow); transform: translateY(-3px); }
+/* Photo slot: a 4:3 frame. The placeholder (venue initial) sits behind the photo. */
+.venue-photo { position: relative; aspect-ratio: 4 / 3; margin: 0 -24px 6px; overflow: hidden; background: linear-gradient(135deg, var(--porch), var(--red-soft)); border-bottom: 1px solid var(--line); }
+.venue-photo::before { position: absolute; inset: 0; display: grid; place-items: center; content: attr(data-initial); color: var(--red); font: italic 600 4.5rem var(--display); opacity: 0.35; }
+.venue-photo img { position: relative; display: block; width: 100%; height: 100%; object-fit: cover; transition: transform 400ms; }
+.venue-card:hover .venue-photo img { transform: scale(1.04); }
 .venue-meta { display: flex; justify-content: space-between; gap: 12px; color: var(--muted); }
 .venue-type { color: var(--red); }
 .venue-card h3 { font-size: 1.6rem; }

@@ -89,10 +89,16 @@ function groupVenues(list) {
 // ---------- 5. Draw the page ----------
 const slug = (text) => 'group-' + text.toLowerCase().replace(/[^a-z0-9]+/g, '-');
 
+// Each card has a photo slot. The <img> points to the path in data.json
+// (for example assets/images/wonderbar.jpg). If that file doesn't exist yet,
+// onerror removes the <img> and the styled placeholder shows instead.
 function cardHTML(v) {
   const tags = [hasLiveMusic(v) && 'Live music', hasPatio(v) && 'Patio'].filter(Boolean);
   return `
     <article class="venue-card">
+      <div class="venue-photo" data-initial="${v['Venue Name'][0]}">
+        <img src="${v['Image Path']}" alt="${v['Venue Name']}" loading="lazy" onerror="this.remove()">
+      </div>
       <div class="venue-meta label">
         <span class="venue-type">${v['Venue Category']}</span>
         <span>${v.Neighborhood}</span>
@@ -111,9 +117,9 @@ function render() {
   const groups = groupVenues(list).filter((g) => g.items.length);
   resultCount.textContent = `${list.length} ${list.length === 1 ? 'place' : 'places'}`;
 
-  // Sticky index: one chip per group, colour-matched to the cards
+  // Sticky index: one chip per group
   jumpNav.innerHTML = groups.map((g) =>
-    `<a href="#${slug(g.label)}" >${g.label}<b>${g.items.length}</b></a>`).join('');
+    `<a href="#${slug(g.label)}">${g.label}<b>${g.items.length}</b></a>`).join('');
 
   results.innerHTML = groups.length ? groups.map((g) => `
     <section class="group" id="${slug(g.label)}">
