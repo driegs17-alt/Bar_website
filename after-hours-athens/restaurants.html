@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A curated guide to bars, restaurants, and live music in Athens, Georgia.">
+  <title>Restaurants in Athens, GA | After Hours Athens</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body data-page="restaurants">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header"><div class="container nav-wrap">
+    <a class="brand" href="index.html" aria-label="After Hours Athens home"><span class="brand-mark" aria-hidden="true">AH</span><span>After Hours<em>Athens</em></span></a>
+    <nav class="site-nav" aria-label="Primary"><a href="index.html">Home</a><a href="bars.html">Bars</a><a href="restaurants.html" aria-current="page">Restaurants</a><a href="live-music.html">Live music</a></nav>
+  </div></header>
+  <main id="main">
+    <section class="page-hero"><div class="container">
+      <p class="eyebrow label">Restaurants · The Classic City</p>
+      <h1>Dinner, then drinks.</h1>
+      <p class="lead">Restaurants, gastropubs, and late-night kitchens around Athens.</p>
+    </div></section>
+    <section class="container guide">
+      <div class="filter-panel">
+        <div class="field search"><label class="label" for="searchInput">Search</label><input id="searchInput" type="search" placeholder="Name, vibe, or feature" autocomplete="off"></div>
+        <div class="field"><label class="label" for="hoodFilter">Neighborhood</label><select id="hoodFilter"></select></div>
+        <div class="field"><label class="label" for="groupBy">Group by</label>
+          <select id="groupBy"><option value="style">Style</option><option value="hood">Neighborhood</option><option value="alpha">A to Z</option></select></div>
+        <button class="clear-button" id="clearFilters" type="button">Clear</button>
+        <div class="pills">
+          <button class="pill" id="musicPill" type="button" aria-pressed="false">Live music</button>
+          <button class="pill" id="patioPill" type="button" aria-pressed="false">Patio</button>
+        </div>
+      </div>
+      <p class="result-count label" id="resultCount" aria-live="polite">Loading…</p>
+      <nav class="jump-nav" id="jumpNav" aria-label="Jump to a group"></nav>
+      <div id="results"></div>
+    </section>
+  </main>
+  <footer class="site-footer"><div class="container footer-wrap"><p>Made for nights worth remembering.</p><p>© <span id="currentYear"></span> After Hours Athens</p></div></footer>
+</body>
+</html>
