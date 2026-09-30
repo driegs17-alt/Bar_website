@@ -36,8 +36,8 @@
     "Late-Night Option": "Good for an active night out",
     "Ideal Group": "Friends; dates; groups",
     "Visit Tip": "Best when your group wants something to do beyond sitting at a table.",
-    "Image Filename": "wonderbar.jpeg",
-    "Image Path": "assets/images/wonderbar.jpeg"
+    "Image Filename": "wonderbar.jpg",
+    "Image Path": "assets/images/wonderbar.jpg"
   },
   {
     "ID": 3,
@@ -56,8 +56,8 @@
     "Late-Night Option": "May suit a quieter late-night drink",
     "Ideal Group": "Dates; small groups; cocktail fans",
     "Visit Tip": "Choose this for a more understated bar experience downtown.",
-    "Image Filename": "manhattan-cafe.jpeg",
-    "Image Path": "assets/images/manhattan-cafe.jpeg"
+    "Image Filename": "manhattan-cafe.jpg",
+    "Image Path": "assets/images/manhattan-cafe.jpg"
   },
   {
     "ID": 4,
@@ -96,7 +96,7 @@
     "Late-Night Option": "Often event-dependent",
     "Ideal Group": "Music fans; film fans; creative crowds",
     "Visit Tip": "Look up the night's program before visiting because the experience changes with the event.",
-    "Image Filename": "flicker.jpeg",
+    "Image Filename": "flicker-theatre.jpg",
     "Image Path": "assets/images/flicker.jpeg"
   },
   {
@@ -116,8 +116,8 @@
     "Late-Night Option": "Better for an intentional evening drink",
     "Ideal Group": "Dates; small groups; cocktail fans",
     "Visit Tip": "Ask about the current seasonal menu for a more distinctive order.",
-    "Image Filename": "the old pal.jpg",
-    "Image Path": "assets/images/the old pal.jpg"
+    "Image Filename": "the-old-pal.jpg",
+    "Image Path": "assets/images/the-old-pal.jpg"
   },
   {
     "ID": 7,
@@ -136,8 +136,8 @@
     "Late-Night Option": "Good for evening drinks and nightlife",
     "Ideal Group": "Groups; visitors; celebratory outings",
     "Visit Tip": "Arrive around sunset when views are part of the plan.",
-    "Image Filename": "hybar.jpeg",
-    "Image Path": "assets/images/hybar.jpeg"
+    "Image Filename": "hybar.jpg",
+    "Image Path": "assets/images/hybar.jpg"
   },
   {
     "ID": 8,
@@ -156,8 +156,8 @@
     "Late-Night Option": "Good for a lively night downtown",
     "Ideal Group": "Friends; music fans; groups",
     "Visit Tip": "Check whether a band is playing before you go.",
-    "Image Filename": "allgood.jpeg",
-    "Image Path": "assets/images/allgood.jpeg"
+    "Image Filename": "allgood-lounge.jpg",
+    "Image Path": "assets/images/allgood-lounge.jpg"
   },
   {
     "ID": 9,
@@ -176,8 +176,8 @@
     "Late-Night Option": "Can work for a casual late-night stop",
     "Ideal Group": "Sports fans; groups; beer drinkers",
     "Visit Tip": "A practical pick when a game is on and everyone wants an easygoing table.",
-    "Image Filename": "bluesky.jpeg",
-    "Image Path": "assets/images/bluesky.jpeg"
+    "Image Filename": "blue-sky.jpg",
+    "Image Path": "assets/images/blue-sky.jpg"
   },
   {
     "ID": 10,
@@ -196,8 +196,8 @@
     "Late-Night Option": "Good for a relaxed late-night activity",
     "Ideal Group": "Friends; groups; game-night crowds",
     "Visit Tip": "Bring a group and claim a game early during busy hours.",
-    "Image Filename": "cutters.jpeg",
-    "Image Path": "assets/images/cutters.jpeg"
+    "Image Filename": "cutters-pub.jpg",
+    "Image Path": "assets/images/cutters-pub.jpg"
   },
   {
     "ID": 11,
@@ -216,8 +216,8 @@
     "Late-Night Option": "Yes; known for late-night appeal",
     "Ideal Group": "Friends; late-night diners; music fans",
     "Visit Tip": "A strong choice when your group wants food and drinks in one stop.",
-    "Image Filename": "world famous.jpeg",
-    "Image Path": "assets/images/world famous.jpeg"
+    "Image Filename": "the-world-famous.jpg",
+    "Image Path": "assets/images/the-world-famous.jpg"
   },
   {
     "ID": 12,
@@ -236,8 +236,8 @@
     "Late-Night Option": "Good for an active late-night outing",
     "Ideal Group": "Groups; music fans; game players",
     "Visit Tip": "Plan around a show or make shuffleboard the main event.",
-    "Image Filename": "little kings.jpeg",
-    "Image Path": "assets/images/little kings.jpeg"
+    "Image Filename": "little-kings.jpg",
+    "Image Path": "assets/images/little-kings.jpg"
   },
   {
     "ID": 13,
@@ -256,8 +256,8 @@
     "Late-Night Option": "Works for dinner through evening drinks",
     "Ideal Group": "Beer enthusiasts; friends; small groups",
     "Visit Tip": "Ask for a recommendation if you want to explore the beer list beyond familiar choices.",
-    "Image Filename": "trappeze.jpeg",
-    "Image Path": "assets/images/trappeze.jpeg"
+    "Image Filename": "trappeze-pub.jpg",
+    "Image Path": "assets/images/trappeze-pub.jpg"
   },
   {
     "ID": 14,
@@ -276,8 +276,8 @@
     "Late-Night Option": "May suit a casual late stop",
     "Ideal Group": "Friends; locals; dive-bar fans",
     "Visit Tip": "Go when you want an unfussy bar rather than a curated cocktail experience.",
-    "Image Filename": "roadhouse.jpeg",
-    "Image Path": "assets/images/roadhouse.jpeg"
+    "Image Filename": "the-roadhouse.jpg",
+    "Image Path": "assets/images/the-roadhouse.jpg"
   },
   {
     "ID": 15,
@@ -296,8 +296,8 @@
     "Late-Night Option": "Yes; known for around-the-clock service",
     "Ideal Group": "Everyone; late-night groups; hungry students",
     "Visit Tip": "Make this the final stop when food is more important than another round.",
-    "Image Filename": "the grill.jpeg",
-    "Image Path": "assets/images/the grill.jpeg"
+    "Image Filename": "the-grill.jpg",
+    "Image Path": "assets/images/the-grill.jpg"
   },
   {
     "ID": 16,
@@ -316,8 +316,8 @@
     "Late-Night Option": "Can be a lively evening stop",
     "Ideal Group": "Visitors; dates; creative groups",
     "Visit Tip": "Take time to look around; the visual atmosphere is the main attraction.",
-    "Image Filename": "churches.jpeg",
-    "Image Path": "assets/images/churches.jpeg"
+    "Image Filename": "sister-louisas-church.jpg",
+    "Image Path": "assets/images/sister-louisas-church.jpg"
   },
   {
     "ID": 17,
@@ -336,8 +336,8 @@
     "Late-Night Option": "Works from dinner into drinks",
     "Ideal Group": "Dates; small groups; dinner plans",
     "Visit Tip": "Choose this for a more elevated food-and-cocktails night.",
-    "Image Filename": "nighthawk lounge.jpeg",
-    "Image Path": "assets/images/nighthawk lounge.jpeg"
+    "Image Filename": "nighthawks-lounge.jpg",
+    "Image Path": "assets/images/nighthawks-lounge.jpg"
   },
   {
     "ID": 18,
@@ -356,8 +356,8 @@
     "Late-Night Option": "Can work as an evening stop",
     "Ideal Group": "Solo visitors; friends; low-key dates",
     "Visit Tip": "Useful when your group wants coffee or drinks without changing locations.",
-    "Image Filename": "walker.jpeg",
-    "Image Path": "assets/images/walkers.jpeg"
+    "Image Filename": "walkers-coffee-pub.jpg",
+    "Image Path": "assets/images/walkers-coffee-pub.jpg"
   },
   {
     "ID": 19,
@@ -396,8 +396,8 @@
     "Late-Night Option": "Yes; nightlife-focused",
     "Ideal Group": "Groups; dancers; celebratory nights",
     "Visit Tip": "Go later in the evening when the dance floor is likely to be active.",
-    "Image Filename": "bar south.jpeg",
-    "Image Path": "assets/images/bar south.jpeg"
+    "Image Filename": "bar-south.jpg",
+    "Image Path": "assets/images/bar-south.jpg"
   },
   {
     "ID": 21,
@@ -416,8 +416,8 @@
     "Late-Night Option": "Yes; strong late-night option",
     "Ideal Group": "Music fans; groups; concertgoers",
     "Visit Tip": "Check the lineup and arrive early for popular local or touring acts.",
-    "Image Filename": "nowhere bar.jpeg",
-    "Image Path": "assets/images/nowhere bar.jpeg"
+    "Image Filename": "nowhere-bar.jpg",
+    "Image Path": "assets/images/nowhere-bar.jpg"
   },
   {
     "ID": 22,
@@ -436,8 +436,8 @@
     "Late-Night Option": "Event-dependent; often evening-focused",
     "Ideal Group": "Concertgoers; friends; music fans",
     "Visit Tip": "Buy tickets or review the event details before building your night around a show.",
-    "Image Filename": "live wire.jpeg",
-    "Image Path": "assets/images/live wire.jpeg"
+    "Image Filename": "live-wire-athens.jpg",
+    "Image Path": "assets/images/live-wire-athens.jpg"
   },
   {
     "ID": 23,
@@ -456,8 +456,8 @@
     "Late-Night Option": "Usually event-dependent",
     "Ideal Group": "Solo visitors; dates; music fans; small groups",
     "Visit Tip": "Ideal for a quieter music experience than a large downtown venue.",
-    "Image Filename": "hendershotz.jpeg",
-    "Image Path": "assets/images/hendershotz.jpeg"
+    "Image Filename": "hendershots.jpg",
+    "Image Path": "assets/images/hendershots.jpg"
   },
   {
     "ID": 24,
@@ -476,8 +476,8 @@
     "Late-Night Option": "Works for a laid-back evening",
     "Ideal Group": "Locals; friends; casual dates",
     "Visit Tip": "A reliable option when you want a neighborhood feel over downtown crowds.",
-    "Image Filename": "normalbar.jpeg",
-    "Image Path": "assets/images/normalbar.jpeg"
+    "Image Filename": "normal-bar.jpg",
+    "Image Path": "assets/images/normal-bar.jpg"
   },
   {
     "ID": 25,
@@ -496,8 +496,8 @@
     "Late-Night Option": "Good for an intentional evening cocktail",
     "Ideal Group": "Dates; friends; cocktail fans",
     "Visit Tip": "Use the patio when the weather is good for the full Hi-Lo experience.",
-    "Image Filename": "hi-lo lounge.jpeg",
-    "Image Path": "assets/images/hi-lo lounge.jpeg"
+    "Image Filename": "hi-lo-lounge.jpg",
+    "Image Path": "assets/images/hi-lo-lounge.jpg"
   },
   {
     "ID": 26,
@@ -516,8 +516,8 @@
     "Late-Night Option": "Works for dinner and evening drinks",
     "Ideal Group": "Friends; families; casual groups",
     "Visit Tip": "A good starting point for a Normaltown night when everyone wants food.",
-    "Image Filename": "the root.jpeg",
-    "Image Path": "assets/images/the root.jpeg"
+    "Image Filename": "the-root.jpg",
+    "Image Path": "assets/images/the-root.jpg"
   },
   {
     "ID": 27,
@@ -536,8 +536,8 @@
     "Late-Night Option": "Works well for dinner and drinks",
     "Ideal Group": "Friends; dates; pub fans",
     "Visit Tip": "Choose a pint and settle in when you want a slower more conversational night.",
-    "Image Filename": "royal peasant.jpeg",
-    "Image Path": "assets/images/royal peasant.jpeg"
+    "Image Filename": "the-royal-peasant.jpg",
+    "Image Path": "assets/images/the-royal-peasant.jpg"
   },
   {
     "ID": 28,
@@ -556,8 +556,8 @@
     "Late-Night Option": "Best for a focused cocktail outing",
     "Ideal Group": "Dates; small groups; cocktail enthusiasts",
     "Visit Tip": "Let the bartender guide you toward a house specialty if you are open to something new.",
-    "Image Filename": "pine bar.jpeg",
-    "Image Path": "assets/images/pine bar.jpeg"
+    "Image Filename": "the-pine-bar.jpg",
+    "Image Path": "assets/images/the-pine-bar.jpg"
   },
   {
     "ID": 29,
@@ -576,8 +576,8 @@
     "Late-Night Option": "Works from dinner through drinks",
     "Ideal Group": "Friends; dates; visitors",
     "Visit Tip": "A dependable choice when you want a seated meal before a downtown bar crawl.",
-    "Image Filename": "the globe.jpeg",
-    "Image Path": "assets/images/the globe.jpeg"
+    "Image Filename": "the-globe.jpg",
+    "Image Path": "assets/images/the-globe.jpg"
   },
   {
     "ID": 30,
@@ -596,7 +596,7 @@
     "Late-Night Option": "Works for dinner and evening drinks",
     "Ideal Group": "Dates; small groups; seafood fans",
     "Visit Tip": "Order oysters and a cocktail when you want a more food-forward start to the night.",
-    "Image Filename": "seabear.jpeg",
-    "Image Path": "assets/images/seabear.jpeg"
+    "Image Filename": "seabear-oyster-bar.jpg",
+    "Image Path": "assets/images/seabear-oyster-bar.jpg"
   }
 ]
